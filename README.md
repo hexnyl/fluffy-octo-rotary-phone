@@ -19,6 +19,7 @@ cd fluffy-octo-rotary-phone
 
 ```text
 .
+├── LICENSE      # Apache License 2.0
 └── README.md    # this file
 ```
 
@@ -32,4 +33,4 @@ Issues and pull requests are welcome if you want to propose direction, structure
 
 ## License
 
-No license file is checked in yet. Treat the repository as all-rights-reserved until one is added.
+This project is licensed under the [Apache License 2.0](LICENSE).
